@@ -2,14 +2,14 @@
 # yarn lockfile v1
 
 
-"@vue/devtools-api@^6.1.4":
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.2.0.tgz#e3dc98a0cce8e87292745e2d24c9ee8c274a023b"
-  integrity sha512-pF1G4wky+hkifDiZSWn8xfuLOJI1ZXtuambpBEYaf7Xaf6zC/pM29rvAGpd3qaGXnr4BAXU1Pxz/VfvBGwexGA==
+"@vue/devtools-api@^6.5.1":
+  version "6.6.1"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.6.1.tgz#7c14346383751d9f6ad4bea0963245b30220ef83"
+  integrity sha512-LgPscpE3Vs0x96PzSSB4IGVSZXZBZHpfxs+ZA1d+VEPwHdOXowy/Y2CsvCAIFrf+ssVU1pD1jidj505EpUnfbA==
 
 vue-router@4:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.1.0.tgz#3029bf815885954ec02330e5f6fa8a00a7e5f53c"
-  integrity sha512-A+dYO0ZXLJFZ40ebW3XtqehCW0Wv2xNH4lFddOByDja4NtItEdyirrShTlvD3UA4xc5a5mG2RRI30BusYpOb9g==
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.3.0.tgz#d5913f27bf68a0a178ee798c3c88be471811a235"
+  integrity sha512-dqUcs8tUeG+ssgWhcPbjHvazML16Oga5w34uCUmsk7i0BcnskoLGwjpa15fqMr2Fa5JgVBrdL2MEgqz6XZ/6IQ==
   dependencies:
-    "@vue/devtools-api" "^6.1.4"
+    "@vue/devtools-api" "^6.5.1"
